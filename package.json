@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/birkanTonkal/Bank-Landing-Page.git"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }

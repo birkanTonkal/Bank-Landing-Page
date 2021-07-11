@@ -1,2 +1,3 @@
-p {
-  color: blue; }
+@import url(/node_modules/normalize.css/normalize.css);
+.header .nav {
+  display: flex; }
