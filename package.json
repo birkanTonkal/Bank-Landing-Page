@@ -4,7 +4,7 @@
   "description": "Landing page for bank",
   "main": "app.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile" : "node-sass sass/style.scss css/style.css -w"
   },
   "author": "Kamil Birkan",
   "license": "ISC",
